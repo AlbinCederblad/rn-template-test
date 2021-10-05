@@ -9,8 +9,11 @@ TypeScript
 packages:
 
 Redux Toolkit
+
 React Navigation
+
 React Native Vector Icons
+
 React Native Elements
 
 Prettier
